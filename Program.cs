@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, WPI!");
+Console.WriteLine("Hello, WPI and World!");
